@@ -79,4 +79,4 @@ Write a math operation that include integers and floats and output the following
 
 ```
 
-<a href='https://learn.co/lessons/cssi-4-python-math-operators-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4-python-math-operators-walkthrough' title='Python Math Operations'>Python Math Operations</a> on Learn.co and start learning to code for free.</p>
